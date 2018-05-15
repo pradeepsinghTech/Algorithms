@@ -7,6 +7,8 @@ public class GFG
     static void worstFit(int blockSize[], int m, int processSize[], 
                                                      int n)
     {
+    Data Source=190.190.200.100,1433;Network Library=DBMSSOCN;
+Initial Catalog=myDataBase;User ID=myUsername;Password=myPassword;
         // Stores block id of the block allocated to a
         // process
         int allocation[] = new int[n];
